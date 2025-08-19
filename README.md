@@ -9,8 +9,8 @@ Selasa 19 Agustus 2025
      Cara kedua kita bisa buat user dan password lalu disable **admin**.  
      ![](IMAGES/adminselalubenarsaatbercakap.PNG)  
   **3. Disable service yang tidak diperlukan.**  
-     Selanjutnya kita bisa mematikan dan menyalakan service yang hanya digunakan saja di **IP > SERVICES**. disini saya hanya menyalakan service winbox saja. Jadi kita/orang lain tidak bisa mengakses mikrotik selain melalui Winbox.
-     ![](IMAGES/serpis.PNG)
+     Selanjutnya kita bisa mematikan dan menyalakan service yang hanya digunakan saja di **IP > SERVICES**. disini saya hanya menyalakan service winbox saja. Jadi kita/orang lain tidak bisa mengakses mikrotik selain melalui Winbox.  
+     ![](IMAGES/serpis.PNG)  
      Selain mematikan service, kita juga bisa menganti portnya supaya lebih aman.  
      ![](IMAGES/999.PNG)  
   **4. Non-Aktifkan atau Ubah Fitur MAC Server**  
